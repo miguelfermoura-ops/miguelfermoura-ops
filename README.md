@@ -40,7 +40,7 @@ Me chamo Miguel Ferreira, tenho 19 anos e sou natural do Brasil. Estou cursando 
   />
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfermoura-ops&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfermoura-ops&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
   />
 </p>
 ---
