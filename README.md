@@ -25,13 +25,8 @@ Me chamo Miguel Ferreira, tenho 19 anos e sou natural do Brasil. Estou cursando 
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=miguelfermoura-ops&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfermoura-ops&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" />
-</p>
-
+🛠️ Minhas Habilidades
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
 ---
 
 ### 📩 Contato
