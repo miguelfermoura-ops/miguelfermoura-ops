@@ -6,16 +6,10 @@ Me chamo Miguel Ferreira, tenho 19 anos e sou natural do Brasil. Estou cursando 
 
 <p align="left">
     <a href="https://github.com/miguelfermoura-ops?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            src="https://custom-icon-badges.demolab.com/github/stars/miguelfermoura-ops?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+        <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/miguelfermoura-ops?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
     <a href="https://github.com/miguelfermoura-ops?tab=followers">
-        <img 
-            alt="Seguidores" 
-            src="https://custom-icon-badges.demolab.com/github/followers/miguelfermoura-ops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/miguelfermoura-ops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
 </p>
 
@@ -23,24 +17,19 @@ Me chamo Miguel Ferreira, tenho 19 anos e sou natural do Brasil. Estou cursando 
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<div style="display: inline-block">
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
-<br/>
+---
+
 ### 📊 Estatísticas
 
 <p align="left">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=miguelfermoura-ops&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfermoura-ops&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=miguelfermoura-ops&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfermoura-ops&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" />
 </p>
 
 ---
