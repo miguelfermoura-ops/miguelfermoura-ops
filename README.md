@@ -1,8 +1,11 @@
 # 👨‍💻 Miguel Ferreira
 
-**`Estudante ADS e Entusiasta de Python`**
+**`Miguel Ferreira – 19 anos | Brasil`**
 
-Me chamo Miguel Ferreira, tenho 19 anos e sou natural do Brasil. Estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Uninassau. Já concluí cursos de Python básico e alguns módulos de Python backend na DIO.me, além de possuir certificação de inglês nível B1.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninassau, focado em aplicar conhecimento teórico em soluções práticas de tecnologia.
+🔹 Experiência com Python, lógica de programação e módulos de backend (trilha concluída na DIO.me)
+🔹 Inglês intermediário (B1) certificado pelo EF SET
+🔹 Interesse em desenvolvimento de sistemas, automação e projetos que unem aprendizado e prática
 
 <p align="left">
     <a href="https://github.com/miguelfermoura-ops?tab=repositories">
