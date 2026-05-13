@@ -4,25 +4,16 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninassau. Focado e
 
 ---
 
-### Estatísticas e Linguagens
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelfermoura-ops&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfermoura-ops&layout=compact&langs_count=7&theme=dark" />
-</div>
-
----
-
 ### Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
 ---
@@ -33,4 +24,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninassau. Focado e
 * **Bancos de Dados**: Modelagem e manipulação de dados com **MySQL** e **SQLite**.
 * **Arquitetura**: Aplicação de padrões como **Repository Pattern** em projetos modulares.
 * **Operacional**: Experiência em ambiente **Linux (Mint)** e controle de versão com **Git/GitHub**.
-* **Idiomas**: Inglês nível **B1 (Intermediário)** com foco em leitura técnica.
+* **Idiomas**: Inglês nível **B1 (Intermediário)** focado em leitura técnica.
